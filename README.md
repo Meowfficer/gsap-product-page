@@ -10,7 +10,7 @@ This repository contains an experiment using **GSAP** for animations on a produc
 ## 🔧 How to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/username/gsap-product-page.git
+   git clone https://github.com/Meowfficer/gsap-product-page.git
    cd gsap-product-page
    ```
 2. Open `index.html` in a browser or run it using **Live Server**.
